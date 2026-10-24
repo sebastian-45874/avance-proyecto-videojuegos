@@ -1,0 +1,1 @@
+Arena de una escena. WASD/flechas, clic/espacio lanza hacia raton, E ultima habilidad. 25% portadores morados: quipu; normales: oro. Quipu pausa y permite elegir coca, vasija o corona. Enemigos usan temporalmente el sprite original recoloreado como sombras; pendiente arte propio de enemigos y pictogramas definitivos. Escena original conservada.

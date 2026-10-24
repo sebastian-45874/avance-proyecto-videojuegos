@@ -1,0 +1,9 @@
+Prueba automatizada en Play, arena de quipus
+OK: Aparece enemigo normal en espacio libre
+OK: Normal entrega oro, sin menu de quipu
+OK: Aparece enemigo portador morado
+OK: Quipu recogido pausa y abre seleccion
+OK: Coca aumenta velocidad y reanuda
+OK: Vasija produce dos lanzas
+OK: Corona activa especial y enfriamiento
+OK: Movimiento fisico desplaza al personaje

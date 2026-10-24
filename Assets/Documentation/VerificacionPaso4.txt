@@ -1,0 +1,1 @@
+35 colliders estaticos activos, no triggers; bases verificadas con Physics2D. Camino central libre para radio 0.4 en 133 muestras; desvio verificado en 50 muestras. 4 limites perimetrales. Prueba de movimiento con personaje pendiente de pasos 5-7.

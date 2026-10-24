@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 9ac7cb7d1a9946845a965627c118ed45
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1787146682956967966
+    second: EnemigosDelDocumento_0
+  - first:
+      213: 5786349008092498764
+    second: EnemigosDelDocumento_1
+  - first:
+      213: 4751506789500309590
+    second: EnemigosDelDocumento_2
+  - first:
+      213: 8377075194781237897
+    second: EnemigosDelDocumento_3
+  - first:
+      213: 4700469618640645368
+    second: EnemigosDelDocumento_4
+  - first:
+      213: -5969062468155857989
+    second: EnemigosDelDocumento_5
+  - first:
+      213: 8535401989766397039
+    second: EnemigosDelDocumento_6
+  - first:
+      213: -8007462058520252259
+    second: EnemigosDelDocumento_7
+  - first:
+      213: -6413936296182523078
+    second: EnemigosDelDocumento_8
+  - first:
+      213: -1374562127316240540
+    second: EnemigosDelDocumento_9
+  - first:
+      213: -2131241372835250677
+    second: EnemigosDelDocumento_10
+  - first:
+      213: -3549655202459067643
+    second: EnemigosDelDocumento_11
+  - first:
+      213: 3773146371061275950
+    second: EnemigosDelDocumento_12
+  - first:
+      213: -3121503797698746697
+    second: EnemigosDelDocumento_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemigosDelDocumento_0
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 838
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef05d08f87c237e0800000000000000
+      internalID: -1787146682956967966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosDelDocumento_1
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 842
+        width: 100
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b89c5f3cd3d4050800000000000000
+      internalID: 5786349008092498764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosDelDocumento_2
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 33
+        width: 755
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650d500204eb0f140800000000000000
+      internalID: 4751506789500309590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosDelDocumento_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 991
+        height: 825
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9820ca98189514470800000000000000
+      internalID: 8377075194781237897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosDelDocumento_4
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 803
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc6798c63c6b3140800000000000000
+      internalID: 4700469618640645368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosDelDocumento_5
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 789
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb324778f41a92da0800000000000000
+      internalID: -5969062468155857989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosDelDocumento_6
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 711
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c303f13e6d37670800000000000000
+      internalID: 8535401989766397039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosDelDocumento_7
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 692
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d907b71eea7cfd090800000000000000
+      internalID: -8007462058520252259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosDelDocumento_8
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 674
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b5e0ecbee1df6a0800000000000000
+      internalID: -6413936296182523078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosDelDocumento_9
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 636
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4673c9727039cece0800000000000000
+      internalID: -1374562127316240540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosDelDocumento_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 118
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ef981634f4c62e0800000000000000
+      internalID: -2131241372835250677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosDelDocumento_11
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 45
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b5f4676671dbec0800000000000000
+      internalID: -3549655202459067643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosDelDocumento_12
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 71
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d59ac22a8ec5430800000000000000
+      internalID: 3773146371061275950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosDelDocumento_13
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 17
+        width: 11
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6222d95d03ea4d0800000000000000
+      internalID: -3121503797698746697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EnemigosDelDocumento_0: -1787146682956967966
+      EnemigosDelDocumento_1: 5786349008092498764
+      EnemigosDelDocumento_10: -2131241372835250677
+      EnemigosDelDocumento_11: -3549655202459067643
+      EnemigosDelDocumento_12: 3773146371061275950
+      EnemigosDelDocumento_13: -3121503797698746697
+      EnemigosDelDocumento_2: 4751506789500309590
+      EnemigosDelDocumento_3: 8377075194781237897
+      EnemigosDelDocumento_4: 4700469618640645368
+      EnemigosDelDocumento_5: -5969062468155857989
+      EnemigosDelDocumento_6: 8535401989766397039
+      EnemigosDelDocumento_7: -8007462058520252259
+      EnemigosDelDocumento_8: -6413936296182523078
+      EnemigosDelDocumento_9: -1374562127316240540
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

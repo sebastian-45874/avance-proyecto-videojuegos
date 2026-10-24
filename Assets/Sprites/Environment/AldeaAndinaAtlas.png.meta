@@ -1,0 +1,938 @@
+fileFormatVersion: 2
+guid: 78d3c61ad686d524ba3c3806ace22776
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2598418634924386658
+    second: AldeaAndinaAtlas_0
+  - first:
+      213: -1282555170348699061
+    second: AldeaAndinaAtlas_1
+  - first:
+      213: -1305375361595524865
+    second: AldeaAndinaAtlas_2
+  - first:
+      213: -2687282831333532913
+    second: AldeaAndinaAtlas_3
+  - first:
+      213: 6165194976111366628
+    second: AldeaAndinaAtlas_4
+  - first:
+      213: 4965393517420819228
+    second: AldeaAndinaAtlas_5
+  - first:
+      213: 3450857792854733688
+    second: AldeaAndinaAtlas_6
+  - first:
+      213: -15269475056788819
+    second: AldeaAndinaAtlas_7
+  - first:
+      213: 3093533113408449309
+    second: AldeaAndinaAtlas_8
+  - first:
+      213: 3156570444000518395
+    second: AldeaAndinaAtlas_9
+  - first:
+      213: -434423462955907337
+    second: AldeaAndinaAtlas_10
+  - first:
+      213: -5226228601333587027
+    second: AldeaAndinaAtlas_11
+  - first:
+      213: 3523836700548362694
+    second: AldeaAndinaAtlas_12
+  - first:
+      213: -7393205117628324089
+    second: AldeaAndinaAtlas_13
+  - first:
+      213: -4724697266991244914
+    second: AldeaAndinaAtlas_14
+  - first:
+      213: -1592330580412118097
+    second: AldeaAndinaAtlas_15
+  - first:
+      213: -3447803392271835866
+    second: AldeaAndinaAtlas_16
+  - first:
+      213: -5770893815029630108
+    second: AldeaAndinaAtlas_17
+  - first:
+      213: -2426156448885691104
+    second: AldeaAndinaAtlas_18
+  - first:
+      213: -7570603728714239619
+    second: AldeaAndinaAtlas_19
+  - first:
+      213: 7021957685785385391
+    second: AldeaAndinaAtlas_20
+  - first:
+      213: -2015668868272686343
+    second: AldeaAndinaAtlas_21
+  - first:
+      213: 1242959436529783999
+    second: AldeaAndinaAtlas_22
+  - first:
+      213: 951651838974782922
+    second: AldeaAndinaAtlas_23
+  - first:
+      213: 4012155009656321995
+    second: AldeaAndinaAtlas_24
+  - first:
+      213: 8684677411477251056
+    second: AldeaAndinaAtlas_25
+  - first:
+      213: 4643366340429802006
+    second: AldeaAndinaAtlas_26
+  - first:
+      213: -2539401403373691001
+    second: AldeaAndinaAtlas_27
+  - first:
+      213: -3636833115258570998
+    second: AldeaAndinaAtlas_28
+  - first:
+      213: 6742524319816445618
+    second: AldeaAndinaAtlas_29
+  - first:
+      213: 2243014551907635460
+    second: AldeaAndinaAtlas_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 1
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521
+        width: 497
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2696c604bff6f0420800000000000000
+      internalID: 2598418634924386658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 503
+        width: 547
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b42768a2ed2733ee0800000000000000
+      internalID: -1282555170348699061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 997
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff83d89560062ede0800000000000000
+      internalID: -1305375361595524865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 866
+        width: 283
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bdb53b08ad4bad0800000000000000
+      internalID: -2687282831333532913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 863
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1142a8a2c2f8550800000000000000
+      internalID: 6165194976111366628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 853
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1335e7a81f98e440800000000000000
+      internalID: 4965393517420819228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 881
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 873be7111e8e3ef20800000000000000
+      internalID: 3450857792854733688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 503
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa555b4e70c9cff0800000000000000
+      internalID: -15269475056788819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 417
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b6e95f9ff6eea20800000000000000
+      internalID: 3093533113408449309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 21
+        width: 471
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0e52738146ecb20800000000000000
+      internalID: 3156570444000518395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 279
+        width: 509
+        height: 579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f60b60892e98f9f0800000000000000
+      internalID: -434423462955907337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 0
+        width: 515
+        height: 392
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da3668ed6c4b877b0800000000000000
+      internalID: -5226228601333587027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 399
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c17bae1fce27e030800000000000000
+      internalID: 3523836700548362694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 421
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707e92ccd1f066990800000000000000
+      internalID: -7393205117628324089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 1334
+        y: 395
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e895ab14ed08e6eb0800000000000000
+      internalID: -4724697266991244914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 423
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab4b8d06c7e6e9e0800000000000000
+      internalID: -1592330580412118097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 421
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d104cf411f620d0800000000000000
+      internalID: -3447803392271835866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 102
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bf8a696aaa9efa0800000000000000
+      internalID: -5770893815029630108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 53
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d25a6609f845ed0800000000000000
+      internalID: -2426156448885691104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 65
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d717dbef400dfe690800000000000000
+      internalID: -7570603728714239619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 85
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9df01bf41037160800000000000000
+      internalID: 7021957685785385391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 5
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fafac108d7e604e0800000000000000
+      internalID: -2015668868272686343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 65
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4d394a501ef3110800000000000000
+      internalID: 1242959436529783999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 63
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd60f33e42f43d00800000000000000
+      internalID: 951651838974782922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 49
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc77e5659b90ea730800000000000000
+      internalID: 4012155009656321995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3e5f3a71c268870800000000000000
+      internalID: 8684677411477251056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 31
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ae253c51d807040800000000000000
+      internalID: 4643366340429802006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 32
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f58c1c0eb32ccd0800000000000000
+      internalID: -2539401403373691001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 29
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07b2a9ec8f578dc0800000000000000
+      internalID: -3636833115258570998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 1422
+        y: 15
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2be671c3522429d50800000000000000
+      internalID: 6742524319816445618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AldeaAndinaAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 15
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4019c78d9d9c02f10800000000000000
+      internalID: 2243014551907635460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      AldeaAndinaAtlas_0: 2598418634924386658
+      AldeaAndinaAtlas_1: -1282555170348699061
+      AldeaAndinaAtlas_10: -434423462955907337
+      AldeaAndinaAtlas_11: -5226228601333587027
+      AldeaAndinaAtlas_12: 3523836700548362694
+      AldeaAndinaAtlas_13: -7393205117628324089
+      AldeaAndinaAtlas_14: -4724697266991244914
+      AldeaAndinaAtlas_15: -1592330580412118097
+      AldeaAndinaAtlas_16: -3447803392271835866
+      AldeaAndinaAtlas_17: -5770893815029630108
+      AldeaAndinaAtlas_18: -2426156448885691104
+      AldeaAndinaAtlas_19: -7570603728714239619
+      AldeaAndinaAtlas_2: -1305375361595524865
+      AldeaAndinaAtlas_20: 7021957685785385391
+      AldeaAndinaAtlas_21: -2015668868272686343
+      AldeaAndinaAtlas_22: 1242959436529783999
+      AldeaAndinaAtlas_23: 951651838974782922
+      AldeaAndinaAtlas_24: 4012155009656321995
+      AldeaAndinaAtlas_25: 8684677411477251056
+      AldeaAndinaAtlas_26: 4643366340429802006
+      AldeaAndinaAtlas_27: -2539401403373691001
+      AldeaAndinaAtlas_28: -3636833115258570998
+      AldeaAndinaAtlas_29: 6742524319816445618
+      AldeaAndinaAtlas_3: -2687282831333532913
+      AldeaAndinaAtlas_30: 2243014551907635460
+      AldeaAndinaAtlas_4: 6165194976111366628
+      AldeaAndinaAtlas_5: 4965393517420819228
+      AldeaAndinaAtlas_6: 3450857792854733688
+      AldeaAndinaAtlas_7: -15269475056788819
+      AldeaAndinaAtlas_8: 3093533113408449309
+      AldeaAndinaAtlas_9: 3156570444000518395
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

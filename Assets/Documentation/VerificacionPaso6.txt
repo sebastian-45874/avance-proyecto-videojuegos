@@ -1,0 +1,1 @@
+PASO 6: 8 clips Idle/Walk y controlador Animator; movimiento cardinal WASD/flechas; entrada tactil preparada sin interfaz; orden visual por Y; camara ortografica con seguimiento y limites. Escena y prefab guardados. Compilacion y componentes verificados. Pruebas Play pendientes del Paso 7.
