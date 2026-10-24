@@ -1,0 +1,4 @@
+2026-10-24: Controles exclusivamente por clic. Suelo: destino; enemigo: seleccionar y atacar al alcance; oro/quipu: recoger; botones: mejoras, corona y reinicio. Sin WASD ni teclas de habilidades en la arena. Sendero conserva sus controles originales.
+Sprites originales generados usando la pagina 6 conservada del PDF: Vigia de Piedra (roca redondeada, musgo, ojos ambar, espiral abdominal) y Hondero de Sombra (humo, bufanda rojiza, honda). Atlas transparente EnemigosDelDocumento.png con dos celdas, recortadas al contenido con pivote inferior. Sin recursos externos.
+Vigia: se detiene y cambia de color para anunciar embestida. Hondero: conserva distancia y dispara piedras. Aura morada independiente del tipo: portador de quipu.
+Limitaciones: sprites de enemigos de una pose; navegacion sencilla con colisiones, sin busqueda global de rutas.

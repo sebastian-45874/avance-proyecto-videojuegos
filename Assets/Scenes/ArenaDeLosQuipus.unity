@@ -18337,6 +18337,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::ChasquiArena
   player: {fileID: 7130391986597277001}
   enemySprite: {fileID: 1097237719, guid: 3e20d207fddb1184599ec37353523763, type: 3}
+  stoneSprite: {fileID: 21300000, guid: 66140a7677fbe724b8610caad43f20b9, type: 2}
+  slingerSprite: {fileID: 21300000, guid: c6d0540dcf2475e4f97fd22c06070428, type: 2}
   spriteMaterial: {fileID: 2100000, guid: 59787f3abe275154c81d569640e04e14, type: 2}
   eliteChance: 0.25
   maxEnemies: 18

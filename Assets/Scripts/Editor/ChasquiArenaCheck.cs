@@ -26,9 +26,10 @@ public static class ChasquiArenaCheck
             if(stage==4){Assert(arena.player.position.x>start.x,"Clic en suelo desplaza al personaje sin teclado");arena.player.GetComponent<ChasquiMovement>().ReleaseTouchInput();Finish(result);}
         }catch(Exception e){Finish(result+"FALLO: "+e+"\n");Debug.LogException(e);}
     }
-    static void KillLast(){var list=(IList)typeof(ChasquiArena).GetField("enemies",Hidden).GetValue(arena);var e=list[list.Count-1];var go=(GameObject)e.GetType().GetField("go").GetValue(e);arena.player.position=go.transform.position;typeof(ChasquiArena).GetMethod("DamageEnemy",Hidden).Invoke(arena,new object[]{list.Count-1,100});}
+    static void KillLast(){var list=(IList)typeof(ChasquiArena).GetField("enemies",Hidden).GetValue(arena);var e=list[list.Count-1];var go=(GameObject)e.GetType().GetField("go").GetValue(e);Vector2 dropPoint=(Vector2)go.transform.position+Vector2.up*.2f;arena.WorldClick((Vector2)go.transform.position+Vector2.up*.5f);Assert(typeof(ChasquiArena).GetField("selectedEnemy",Hidden).GetValue(arena)!=null,"Clic en enemigo selecciona objetivo de ataque");typeof(ChasquiArena).GetMethod("DamageEnemy",Hidden).Invoke(arena,new object[]{list.Count-1,100});arena.WorldClick(dropPoint);}
     static void Finish(string text){File.WriteAllText("Assets/Documentation/PruebaArena.txt",text);SessionState.SetBool("ArenaCheck",false);stage=0;EditorApplication.isPlaying=false;Debug.Log("CHASQUI PRUEBA ARENA: "+text);}
 }
+
 
 
 
